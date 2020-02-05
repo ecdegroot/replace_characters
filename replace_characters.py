@@ -9,7 +9,7 @@ input_str = input("Type someting: ")
 # convert all letters to uppercase
 input_str_upper = input_str.upper()
 
-# print output with replaced letters and in uppercase.
+# print output with replaced letters.
 print ( input_str_upper
         .replace ( 'I', '1' )
         .replace ( 'T', '7' )
